@@ -1,0 +1,6 @@
+d:\github\wintools\modenv\ModEnv\bin\Debug\ModEnv.exe
+d:\github\wintools\modenv\ModEnv\bin\Debug\ModEnv.pdb
+d:\github\wintools\modenv\ModEnv\obj\Debug\ModEnv.exe
+d:\github\wintools\modenv\ModEnv\obj\Debug\ModEnv.pdb
+d:\github\wintools\modenv\ModEnv\obj\Debug\Interop.IWshRuntimeLibrary.dll
+d:\github\wintools\modenv\ModEnv\obj\Debug\ModEnv.csproj.ResolveComReference.cache
